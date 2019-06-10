@@ -1,0 +1,16 @@
+.logoimage {
+    width: 20%;
+}
+
+nav.navbar.navbar-expand-lg.navbar-dark.bg-dark.justify-content-between {
+    background: #ff5a60 !important;
+    z-index: 1;
+}
+
+ul.navbar-nav.ml-auto {
+    margin-top: 15px;
+}
+nav.navbar.navbar-expand-lg.navbar-dark.bg-dark.justify-content-between[_ngcontent-pup-c1] {
+    background: #ff5a60 !important;
+    z-index: 1;
+}
